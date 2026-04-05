@@ -21,7 +21,6 @@ static const char* WIFI_PASSWORD = "pass";
 static const uint8_t TORCH_PIN = 4;
 
 // ================== motor pins + pwm channels ==================
-// change these if your H-bridge is wired differently
 // each motor uses 2 pwm pins:
 // A = forward, B = reverse
 static const uint8_t MOTOR_L_PIN_A = 14;
